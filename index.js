@@ -1,9 +1,9 @@
 var animal = 'dog'
 
 function myAnimal() {
-  return  my animal
+  return  animal
 }
-var yourAnimal = 'cat'
+
 function yourAnimal() {
 
   // How can we make sure that this function
